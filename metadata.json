@@ -1,0 +1,6 @@
+{
+  "name": "ShadowMind AI",
+  "description": "ShadowMind AI is an agentic, offline-first digital twin for long-term intelligent memory, task planning, tool calling, and autonomous personal assistance, built by Lumix Forge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
